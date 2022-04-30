@@ -4,7 +4,10 @@ html {
     background-color: lightgray;
 
 }
-
+.newspaper-container{
+    padding-top: 1em;
+    text-align: left;
+}
 body {
     background-color: #eee;
     border-style: solid;
@@ -12,6 +15,7 @@ body {
     border-radius: 10px;
     border-color: #eee;
     box-shadow: 5px 5px #ddd;
+    padding: 1em;
 }
 
 header {
