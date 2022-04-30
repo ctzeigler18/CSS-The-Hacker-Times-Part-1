@@ -73,6 +73,7 @@ h5 {
     color: red;
     display: inline-block;
     margin-top: auto;
+    font-family: 'Abril Fatface';
 }
 
 h2 {
@@ -83,16 +84,9 @@ h2 {
 main {
     display: inline-block;
     border-bottom: #eee solid;
-    width: fit-content;
 }
 
-img {
-    width: fit-content;
-    display: inline-block;
-    align-content: center;
-}
 
-}
 
 p {
     text-align: justify;
