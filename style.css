@@ -5,7 +5,7 @@ html {
 
 }
 .newspaper-container{
-    padding-top: 1em;
+    padding-top: 0em;
     text-align: left;
 }
 body {
@@ -16,13 +16,12 @@ body {
     border-color: #eee;
     box-shadow: 5px 5px #ddd;
     padding: 1em;
+    border-spacing: 1;
 }
 
-header {
-    width: 80%;
-    margin: auto;
+.date{
+    text-align: left;
 }
-
 h1 {
     font-family: Abril Fatface;
     text-align: center;
@@ -31,9 +30,9 @@ h1 {
 Nav {
     display: inline-block;
     margin: auto;
-    border-top: 10px;
+    border-top: 10px black;
     border-bottom: 10px;
-    border-color: black;
+
 }
 
 li {
