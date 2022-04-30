@@ -4,12 +4,15 @@ html {
     background-color: lightgray;
 
 }
-.newspaper-container{
+
+.newspaper-container {
     padding-top: 0em;
     text-align: left;
+    background-color: white;
 }
+
 body {
-    background-color: #eee;
+    background-color: white;
     border-style: solid;
     width: 700px;
     border-radius: 10px;
@@ -17,24 +20,34 @@ body {
     box-shadow: 5px 5px #ddd;
     padding: 1em;
     border-spacing: 1;
+    margin: auto;
+    font-family: 'Source Sans Pro';
+
 }
 
-.date{
+.date {
     text-align: left;
 }
+
 h1 {
     font-family: Abril Fatface;
     text-align: center;
 }
 
 Nav {
-    display: inline-block;
-    margin: auto;
-    border-top: 10px black;
-    border-bottom: 10px;
+    border: solid #eee;
+    border-left: 0px;
+    border-right: 0px;
 
 }
 
 li {
-    display: inline-block;
+    list-style: none;
+    color: #eee;
+}
+h5{
+    color: red;
+}
+h2{
+    font-family: 'Roboto Slab';
 }
