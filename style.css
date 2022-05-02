@@ -39,6 +39,10 @@ Nav {
     border: solid #eee;
     border-left: 0px;
     border-right: 0px;
+    position: fixed;
+    bottom: 414px;
+    left: 500px;
+    background-color: white;
 }
 
 li {
