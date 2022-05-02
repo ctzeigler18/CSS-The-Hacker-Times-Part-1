@@ -86,8 +86,6 @@ main {
     border-bottom: #eee solid;
 }
 
-
-
 p {
     text-align: justify;
 }
@@ -114,4 +112,11 @@ h4 {
     margin-inline-end: 0px;
     font-weight: bolder;
     font-family: 'Roboto Slab';
-}Z Y
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
